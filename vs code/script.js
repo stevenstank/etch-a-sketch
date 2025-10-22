@@ -12,7 +12,7 @@ const color_options = document.createElement("div")
 color_options.setAttribute("class","options")
 
 const pick_color = document.createElement("span")
-pick_color.setAttribute("class","color pick")
+pick_color.setAttribute("class","pick")
 pick_color.textContent = "Pick Color:  BOX"
 
 const rainbow = document.createElement("span")
