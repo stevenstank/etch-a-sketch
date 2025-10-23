@@ -52,7 +52,7 @@ const square = document.createElement("div")
 square.setAttribute("class","square")    
 container.appendChild(square)}}
 else{
-    console.log("ERROR")
+    console.log("BHONDU")
 }
 
 
@@ -73,3 +73,4 @@ buttons.appendChild(drag_btn)
 card.appendChild(container)
 
 document.body.appendChild(card)
+
