@@ -57,7 +57,7 @@ const square = document.createElement("div")
 square.setAttribute("class","square")    
 container.appendChild(square)}}
 else{
-    console.log("BHONDU")
+    console.log("bhondu")
 }
 
 let currentColor = '#ff0000ff';          
